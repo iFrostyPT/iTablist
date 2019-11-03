@@ -1,0 +1,16 @@
+# +=+=+=+=+=+=[ iTablist ]=+=+=+=+=+=+=+
+#
+# Author: iFrostyPT
+# Discord: iFrostyPT#4267
+# Version: 0.1
+#
+# Depend: PlaceholderAPI-2.10.4
+#
+# +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+#TabList Configuration
+Header: "&cHeader"
+Footer: "&cFooter"
+
+# Time for Update tablist 20 Ticks = 1 Second.
+UpdateTime: 20

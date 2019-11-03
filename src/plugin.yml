@@ -1,0 +1,5 @@
+name: iTabList
+version: 1.0
+author: iFrostyPT
+main: Frosty.Control.Main
+depend: [PlaceholderAPI]
